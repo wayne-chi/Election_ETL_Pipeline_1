@@ -16,10 +16,10 @@ An irregularity is described as the deviation or outlier value in the votes of a
 - Webscrapping : A webscrapping script that pulls data from the inec portal about all registered polling units and their polling unit code. The polling unit code can serve as a unique identifer and can be used to join both data. 
 
 ## Tools
-MongoDB
-Plotly
+- MongoDB
+- Plotly
 
 ## Coming Soon
  - Use of Dash for plotting
- - Automation weekly for updating csv
+ - Automation weekly for uploading the reviewed CSVs
    
