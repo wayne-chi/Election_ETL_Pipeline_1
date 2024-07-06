@@ -1,1 +1,9 @@
-
+pymongo>=4.2.0
+pandas
+numpy
+dotenv
+feather-format==0.4.1
+copy
+geopy==2.0.0
+tqdm
+plotly>=5.10.0
